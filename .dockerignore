@@ -1,0 +1,3 @@
+node_modules
+prisma/suzie.db*
+.env
